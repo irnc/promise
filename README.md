@@ -1,4 +1,5 @@
 # promise
+- https://github.com/wbinnssmith/awesome-promises
 
 ## See also
 
